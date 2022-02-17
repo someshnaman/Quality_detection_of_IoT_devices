@@ -2,8 +2,8 @@
 # Quality detection of IOT Devices
 >### **Problem Statement**
 Before getting into the Problem Let's try to understand **what are wafer's**?
-![alt text](https://github.com/someshnaman/Quality_detection_of_IoT_devices/blob/master/templates/Sil.jpg?raw=true)
 
+![alt text](https://github.com/someshnaman/Quality_detection_of_IoT_devices/blob/master/templates/Sil.jpg?raw=true)
 
 Wafer (In electronics), also called a slice or substrate, is a thin slice of semiconductor,
 such as a crystalline silicon (c-Si), used for fabricationof integrated circuits and in photovoltaics,
